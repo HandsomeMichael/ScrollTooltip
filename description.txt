@@ -1,0 +1,6 @@
+Scrollable Tooltip make the tooltip scrollable 
+so clamity mod tooltip actually readable and doesnt take all of the screen
+has config to set up stuff
+
+Version
+0.1 - intial release
